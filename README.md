@@ -1,12 +1,19 @@
 This file provides the documentation for two web scraping scripts that aim to retrieve financial reports from online sources. 
 
 
-# Installation and Setup
+# Configuration/Installation
 
 Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. It includes an installation of Jupyter Notebook, which presents data science documents that combine live-code with narrative text, equations and visualizations.
 
-Latest version of Python
-Various Python packages and libraries are required for web scraping, and must be installed before using this code. 
+The web scraping code is written in Python. The latest version of Python should be installed. Various Python packages and libraries are required for web scraping, and must be installed before using this code. 
+
+# files included
+
+microsoft.ipynb
+
+sony.ipynb
+
+Microsoft.xlsx
 
 
 # Microsoft
@@ -21,29 +28,32 @@ BeautifulSoup is a Python library for pulling data out of HTML and XML files. Th
 
 pandas is a Python data analysis library, which will help us assemble the data into a DataFrame to clean and analyze it
 
-NumPy is a Python library used for working with large, multi-dimensional arrays and matrices. It will add support for mathematical functions and tools for working with arrays
+NumPy is a Python library used for working with large, multi-dimensional arrays and matrices. It will add support for mathematical functions and tools for working with arrays.
 
 The time module in Python has a function sleep() that you can use to suspend execution of the calling thread 
 
 The randint() method returns a pseudo-random integer number 
 
-## Description of code
+## Operating Instructions
+
+A single block of code can be run by clicking "Run" at the top of the Jupyter Notebook interface. This will only run the selected block. Separate blocks correspond to separate actions the code can undertake.
+
+Using this code, you can scrape data from a range of quarters or a single quarter by altering the specified reference dates.
 
 # Sony
 
+This file downloads PDF files from Sony Investor Relations (https://www.sony.com/en/SonyInfo/IR/library/presen/er/archive.html) into a specified directory. Sony does not provide the required financial information in HTML format, but downloading the PDF files through the code instead of manually downloading should be a time-saving process. The code also converts the downloaded files to HTML, but these conversions are difficult to scrape using BeautifulSoup due to the formatting of PDFs and the lack of distinction between relevant and irrelevant tables. Nevertheless, they may provide useful information in the future
+
 ## Required Packages/Libraries
 
-This module provides a portable way of using operating system dependent functionality. 
-import os
+the O/S module provides a portable way of using operating system dependent functionality. 
 
-NumPy is a Python library used for working with large, multi-dimensional arrays and matrices
-import numpy as np
+NumPy is a Python library used for working with large, multi-dimensional arrays and matrices. It will add support for mathematical functions and tools for working with arrays.
 
 wget is a module used to download files
-import wget
 
-PDFMiner is a text extraction tool for PDF documents that obtains the exact location of text as well as other layout
-information (fonts, etc.), performs automatic layout analysis, and can convert PDF into other formats (HTML/XML)
-import pdfminer
+PDFMiner is a text extraction tool for PDF documents that obtains the exact location of text as well as other layout information (fonts, etc.), performs automatic layout analysis, and can convert PDF into other formats (HTML/XML).
 
-## Description of code
+## Operating Instructions
+
+
