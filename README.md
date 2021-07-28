@@ -60,3 +60,5 @@ PDFMiner is a text extraction tool for PDF documents that obtains the exact loca
 ## Operating Instructions
 
 To open the file, navigate to the directory in Jupyter Notebook and click on the filename. A single block of code can be run by selecting the block and clicking "Run" at the top of the Jupyter Notebook interface. 
+
+Using this code, you can download and convert a range of PDF files by running the first and second code blocks, or download and convert a single file with the first and third code blocks.
