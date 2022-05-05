@@ -5,9 +5,9 @@ This file provides the documentation for my web scraping project as a student em
 
 Anaconda is a distribution of the Python and R programming languages for scientific computing (data science, machine learning applications, large-scale data processing, predictive analytics, etc.), that aims to simplify package management and deployment. It includes an installation of Jupyter Notebook, which presents data science documents that combine live-code with narrative text, equations and visualizations. 
 
-The web scraping code is written in Python. The latest version of Python should be installed. Various Python packages and libraries are required for web scraping, as detailed in each file, and must be installed before running the code. A list of approved packages is stored in Artifactory. New packages can be requested through Jira.
+The web scraping code is written in Python. The latest version of Python should be installed. Various Python packages and libraries are required for web scraping, as detailed in each file, and must be installed before running the code. A list of approved packages is stored in Artifactory. New packages can be requested through Statistics Canada's use of Jira.
 
-# files included
+# Files included
 
 ## microsoft.ipynb
 File for scraping Microsoft financial data.
@@ -29,9 +29,10 @@ File for recording price information from Speedgreens.
 
 # Use
 
-Web scraping involves parsing the HTML of a webpage to automate the retrieval and structuring of data from online sources instead of manually entering and manipulating data. 
+Web scraping involves parsing the HTML of a webpage to automate the retrieval and structuring of data from online sources instead of manually entering and manipulating data. Web scraping use cases typically involve a need for repeated data gathering from an online source that is not accomodated by the source itself. While data-dissemination-focused websites and databases (such as those for Statistics Canada and the United Nations Statistics Database) provide data and statistical products in ready-to-use formats as well as application programming interfaces (APIs) for users to easily access data, other important data sources are not designed for data gathering. Web scraping can extract data from these less-accessible sources. It is often used to track prices in the analysis of goods/services markets. 
 
-Beautiful Soup is an important library in web scraping applications. 
+Beautiful Soup is an important library in web scraping applications that parses HTML and XML files into a Python-readable format. Using Beautiful Soup, we can find the exact location of a necessary piece of data, such as a product name or price, and retrieve the data by searching for and referencing the location in which the data is stored.
+
 The documentation for the Beautiful Soup library can be found here: https://beautiful-soup-4.readthedocs.io/en/latest/
 
 ## Microsoft
