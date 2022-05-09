@@ -1,0 +1,231 @@
+fiscal_year,fiscal_quarter,segment,revenue
+2017.0,1.0,Office products and cloud services,"5,982"
+2017.0,1.0,Server products and cloud services,"4,689"
+2017.0,1.0,Windows,"4,643"
+2017.0,1.0,Gaming,"1,885"
+2017.0,1.0,Search advertising,"1,429"
+2017.0,1.0,Enterprise Services,"1,355"
+2017.0,1.0,Devices,"1,362"
+2017.0,1.0,LinkedIn,0
+2017.0,1.0,Other,583
+2017.0,1.0,Total,"21,928"
+2017.0,2.0,Office products and cloud services,"6,439"
+2017.0,2.0,Server products and cloud services,"5,332"
+2017.0,2.0,Windows,"4,805"
+2017.0,2.0,Gaming,"3,617"
+2017.0,2.0,Search advertising,"1,605"
+2017.0,2.0,Enterprise Services,"1,371"
+2017.0,2.0,Devices,"1,697"
+2017.0,2.0,LinkedIn,228
+2017.0,2.0,Other,732
+2017.0,2.0,Total,"25,826"
+2017.0,3.0,Office products and cloud services,"6,234"
+2017.0,3.0,Server products and cloud services,"5,297"
+2017.0,3.0,Windows,"4,253"
+2017.0,3.0,Gaming,"1,906"
+2017.0,3.0,Search advertising,"1,599"
+2017.0,3.0,Enterprise Services,"1,383"
+2017.0,3.0,Devices,958
+2017.0,3.0,LinkedIn,976
+2017.0,3.0,Other,606
+2017.0,3.0,Total,"23,212"
+2017.0,4.0,Office products and cloud services,"25,573"
+2017.0,4.0,Server products and cloud services,"21,649"
+2017.0,4.0,Windows,"18,593"
+2017.0,4.0,Gaming,"9,051"
+2017.0,4.0,Search advertising,"6,219"
+2017.0,4.0,Enterprise Services,"5,542"
+2017.0,4.0,Devices,"5,062"
+2017.0,4.0,LinkedIn,"2,271"
+2017.0,4.0,Other,"2,611"
+2017.0,4.0,Total,"96,571"
+2018.0,1.0,Office products and cloud services,6575
+2018.0,1.0,Server products and cloud services,5496
+2018.0,1.0,Windows,4643
+2018.0,1.0,Gaming,1896
+2018.0,1.0,Search advertising,1639
+2018.0,1.0,Enterprise Services,1371
+2018.0,1.0,Devices,1154
+2018.0,1.0,LinkedIn,1148
+2018.0,1.0,Other ,616
+2018.0,1.0,Total ,24538
+2018.0,2.0,Office products and cloud services,7075
+2018.0,2.0,Server products and cloud services,6299
+2018.0,2.0,Windows,4839
+2018.0,2.0,Gaming,3920
+2018.0,2.0,Search advertising,1820
+2018.0,2.0,Enterprise Services,1435
+2018.0,2.0,Devices,1478
+2018.0,2.0,LinkedIn,1312
+2018.0,2.0,Other ,740
+2018.0,2.0,Total,28918
+2018.0,3.0,Office products and cloud services,7088
+2018.0,3.0,Server products and cloud services,6343
+2018.0,3.0,Windows,4612
+2018.0,3.0,Gaming,2251
+2018.0,3.0,Search advertising,1784
+2018.0,3.0,Enterprise Services,1489
+2018.0,3.0,Devices,1219
+2018.0,3.0,LinkedIn,1335
+2018.0,3.0,Other ,698
+2018.0,3.0,Total,26819
+2018.0,4.0,Office products and cloud services,28316
+2018.0,4.0,Server products and cloud services,26129
+2018.0,4.0,Windows,19518
+2018.0,4.0,Gaming,10353
+2018.0,4.0,Search advertising,7012
+2018.0,4.0,Enterprise Services,5846
+2018.0,4.0,Devices,5134
+2018.0,4.0,LinkedIn,5259
+2018.0,4.0,Other,2793
+2018.0,4.0,Total,110360
+2019.0,1.0,Office products and cloud services,7622
+2019.0,1.0,Server products and cloud services,7058
+2019.0,1.0,Windows,4901
+2019.0,1.0,Gaming,2738
+2019.0,1.0,Search advertising,1788
+2019.0,1.0,LinkedIn ,1530
+2019.0,1.0,Enterprise Services,1450
+2019.0,1.0,Devices,1261
+2019.0,1.0,Other ,736
+2019.0,1.0,Total,29084
+2019.0,2.0,Office products and cloud services,7747
+2019.0,2.0,Server products and cloud services,7791
+2019.0,2.0,Windows,4758
+2019.0,2.0,Gaming,4232
+2019.0,2.0,Search advertising,1976
+2019.0,2.0,LinkedIn ,1693
+2019.0,2.0,Devices,1948
+2019.0,2.0,Enterprise Services,1521
+2019.0,2.0,Other ,805
+2019.0,2.0,Total,32471
+2019.0,3.0,Office products and cloud services,7889
+2019.0,3.0,Server products and cloud services,8053
+2019.0,3.0,Windows,4944
+2019.0,3.0,Gaming,2363
+2019.0,3.0,Search advertising,1911
+2019.0,3.0,LinkedIn ,1696
+2019.0,3.0,Devices,1423
+2019.0,3.0,Enterprise Services,1542
+2019.0,3.0,Other ,750
+2019.0,3.0,Total,30571
+2019.0,4.0,Server products and cloud services,32622
+2019.0,4.0,Office products and cloud services,31769
+2019.0,4.0,Windows,20395
+2019.0,4.0,Gaming,11386
+2019.0,4.0,Search advertising,7628
+2019.0,4.0,LinkedIn,6754
+2019.0,4.0,Enterprise Services,6124
+2019.0,4.0,Devices,6095
+2019.0,4.0,Other,3070
+2019.0,4.0,Total,125843
+2020.0,1.0,Server products and cloud services,9192
+2020.0,1.0,Office products and cloud services,8466
+2020.0,1.0,Windows,5353
+2020.0,1.0,Gaming,2542
+2020.0,1.0,Search advertising,1991
+2020.0,1.0,LinkedIn ,1909
+2020.0,1.0,Enterprise Services,1545
+2020.0,1.0,Devices,1202
+2020.0,1.0,Other ,855
+2020.0,1.0,Total,33055
+2020.0,2.0,Server products and cloud services,10119
+2020.0,2.0,Office products and cloud services,8983
+2020.0,2.0,Windows,5593
+2020.0,2.0,Gaming,3327
+2020.0,2.0,Search advertising,2163
+2020.0,2.0,LinkedIn ,2102
+2020.0,2.0,Devices,2048
+2020.0,2.0,Enterprise Services,1612
+2020.0,2.0,Other ,959
+2020.0,2.0,Total,36906
+2020.0,3.0,Server products and cloud services,10490
+2020.0,3.0,Office products and cloud services,8920
+2020.0,3.0,Windows,5220
+2020.0,3.0,Gaming,2349
+2020.0,3.0,Search advertising,1986
+2020.0,3.0,LinkedIn ,2050
+2020.0,3.0,Enterprise Services,1633
+2020.0,3.0,Devices,1412
+2020.0,3.0,Other,961
+2020.0,3.0,Total,35021
+2020.0,4.0,Server products and cloud services,41379
+2020.0,4.0,Office products and cloud services,35316
+2020.0,4.0,Windows,22294
+2020.0,4.0,Gaming,11575
+2020.0,4.0,LinkedIn,8077
+2020.0,4.0,Search advertising,7740
+2020.0,4.0,Devices,6457
+2020.0,4.0,Enterprise Services,6409
+2020.0,4.0,Other,3768
+2020.0,4.0,Total,143015
+2021.0,1.0,Server products and cloud services,11195
+2021.0,1.0,Office products and cloud services,9278
+2021.0,1.0,Windows,5305
+2021.0,1.0,Gaming,3092
+2021.0,1.0,LinkedIn,2206
+2021.0,1.0,Search advertising,1789
+2021.0,1.0,Enterprise Services,1637
+2021.0,1.0,Devices,1620
+2021.0,1.0,Other,1032
+2021.0,1.0,Total,37154
+2021.0,2.0,Server products and cloud services,12729
+2021.0,2.0,Office products and cloud services,9881
+2021.0,2.0,Windows,5716
+2021.0,2.0,Gaming,5031
+2021.0,2.0,LinkedIn,2577
+2021.0,2.0,Search advertising,2184
+2021.0,2.0,Devices,2120
+2021.0,2.0,Enterprise Services,1695
+2021.0,2.0,Other,1143
+2021.0,2.0,Total,43076
+2021.0,3.0,Server products and cloud services,13204
+2021.0,3.0,Office products and cloud services,10016
+2021.0,3.0,Windows,5646
+2021.0,3.0,Gaming,3533
+2021.0,3.0,LinkedIn,2562
+2021.0,3.0,Search advertising,2218
+2021.0,3.0,Devices,1599
+2021.0,3.0,Enterprise Services,1803
+2021.0,3.0,Other,1125
+2021.0,3.0,Total,41706
+2021.0,4.0,Server products and cloud services,52589
+2021.0,4.0,Office products and cloud services,39872
+2021.0,4.0,Windows,23227
+2021.0,4.0,Gaming,15370
+2021.0,4.0,LinkedIn,10289
+2021.0,4.0,Search advertising,8528
+2021.0,4.0,Enterprise Services,6943
+2021.0,4.0,Devices,6791
+2021.0,4.0,Other,4479
+2021.0,4.0,Total,168088
+2022.0,1.0,Server products and cloud services,15069
+2022.0,1.0,Office products and cloud services,10808
+2022.0,1.0,Windows,5676
+2022.0,1.0,Gaming,3593
+2022.0,1.0,LinkedIn,3136
+2022.0,1.0,Search and news advertising,2656
+2022.0,1.0,Enterprise Services,1791
+2022.0,1.0,Devices,1361
+2022.0,1.0,Other ,1227
+2022.0,1.0,Total ,45317
+2022.0,2.0,Server products and cloud services,16375
+2022.0,2.0,Office products and cloud services,11251
+2022.0,2.0,Windows,6600
+2022.0,2.0,Gaming,5442
+2022.0,2.0,LinkedIn,3531
+2022.0,2.0,Search and news advertising,3064
+2022.0,2.0,Devices,2285
+2022.0,2.0,Enterprise Services,1823
+2022.0,2.0,Other ,1357
+2022.0,2.0,Total ,51728
+2022,3,Server products and cloud services,17038
+2022,3,Office products and cloud services,11164
+2022,3,Windows,6077
+2022,3,Gaming,3740
+2022,3,LinkedIn,3437
+2022,3,Search and news advertising,2945
+2022,3,Enterprise Services,1891
+2022,3,Devices,1764
+2022,3,Other,1304
+2022,3,Total,49360
